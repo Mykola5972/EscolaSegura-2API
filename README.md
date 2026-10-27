@@ -1,0 +1,1 @@
+# EscolaSegura-2API
